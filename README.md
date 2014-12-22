@@ -37,12 +37,22 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Greenes Orpharion VVherin is discouered a musicall concorde of pleasant histories, many sweet moodes
+
+1. To the Right Worshipfull Maister
+Robert Carey Esquire, Robert Greene
+vvisheth encrease of all honorable
+vertues.
+
+1. To the Gentlemen Readers
+Health.
+
 #####Body#####
 
-1. Orpheus Tale.
+1. Greenes Orpharion.
 
-1. Arions Tale.
+    _ Orpheus Tale.
+
+    _ Arions Tale.
 
 **Types of content**
 
